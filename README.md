@@ -1,2 +1,1 @@
-Инструкция по запуску автотестов:
-https://confluence.trassir.com/pages/viewpage.action?pageId=142870330
+Python (Pytest + PlayWright) test, all is write by me
